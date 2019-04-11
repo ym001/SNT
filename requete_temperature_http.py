@@ -20,7 +20,7 @@
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
 #  
-#  
+#  lien pour obtenir le clef : https://openweathermap.org/api
 
 
 def main(args):
