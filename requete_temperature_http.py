@@ -26,7 +26,7 @@
 def main(args):
 	import requests
 	key=""
-	ville="Montpellier"
+	ville="Nîmes"
 	r = requests.get("http://api.openweathermap.org/data/2.5/weather?q="+ville+",fr&appid="+key)
 	data=r.json()
 	print("Température de {} : {} °C".format(ville,data[u'main'][u'temp']-273.15))
