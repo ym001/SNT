@@ -25,7 +25,7 @@
 
 def main(args):
 	import requests
-	url="https://github.com/ym001?tab=repositories"
+	url="https://github.com/ym001/SNT"
 
 	#proxy = {"http":"http://username:password@proxy:port"}
 	#r = requests.get(url, proxies = proxy)
