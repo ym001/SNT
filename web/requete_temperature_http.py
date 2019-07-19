@@ -25,7 +25,7 @@
 
 def main(args):
 	import requests
-	key="c10774ac9233506dd59d00d2ff9a5edc"
+	key=""
 	ville="Nîmes"
 	r = requests.get("http://api.openweathermap.org/data/2.5/weather?q="+ville+",fr&appid="+key)
 	data=r.json()
