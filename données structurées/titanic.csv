@@ -1,4 +1,4 @@
-classe;survie;nom;sexe;age;tarif
+classe;survie;prénom;civilié;nom;sexe;age;tarif
 1;1;Allen, Miss. Elisabeth Walton;2;29;211
 1;1;Allison, Master. Hudson Trevor;1;1;152
 1;0;Allison, Miss. Helen Loraine;2;2;152
@@ -12,7 +12,7 @@ classe;survie;nom;sexe;age;tarif
 1;0;Astor, Col. John Jacob;1;47;228
 1;1;Astor, Mrs. John Jacob (Madeleine Talmadge Force);2;18;228
 1;1;Aubart, Mme. Leontine Pauline;2;24;69
-1;1;"Barber, Miss. Ellen ""Nellie""";2;26;79
+1;1;Barber, Miss. Ellen Nellie;2;26;79
 1;1;Barkworth, Mr. Algernon Henry Wilson;1;80;30
 1;0;Baumann, Mr. John D;1;;26
 1;0;Baxter, Mr. Quigg Edmond;1;24;248
@@ -36,7 +36,7 @@ classe;survie;nom;sexe;age;tarif
 1;0;Borebank, Mr. John James;1;42;27
 1;1;Bowen, Miss. Grace Scott;2;45;262
 1;1;Bowerman, Miss. Elsie Edith;2;22;55
-1;1;"Bradley, Mr. George (""George Arthur Brayton"")";1;;27
+1;1;Bradley, Mr. George (George Arthur Brayton);1;;27
 1;0;Brady, Mr. John Bertram;1;41;31
 1;0;Brandeis, Mr. Emil;1;48;50
 1;0;Brewe, Dr. Arthur Jackson;1;;40
@@ -98,8 +98,8 @@ classe;survie;nom;sexe;age;tarif
 1;0;Douglas, Mr. Walter Donald;1;50;106
 1;1;Douglas, Mrs. Frederick Charles (Mary Helene Baxter);2;27;248
 1;1;Douglas, Mrs. Walter Donald (Mahala Dutton);2;48;106
-1;1;"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")";2;48;40
-1;1;"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")";1;49;57
+1;1;Duff Gordon, Lady. (Lucille Christiana Sutherland) (Mrs Morgan);2;48;40
+1;1;Duff Gordon, Sir. Cosmo Edmund (Mr Morgan);1;49;57
 1;0;Dulles, Mr. William Crothers;1;39;30
 1;1;Earnshaw, Mrs. Boulton (Olive Potter);2;23;83
 1;1;Endres, Miss. Caroline Louise;2;38;228
@@ -108,7 +108,7 @@ classe;survie;nom;sexe;age;tarif
 1;0;Farthing, Mr. John;1;;222
 1;1;Flegenheim, Mrs. Alfred (Antoinette);2;;32
 1;1;Fleming, Miss. Margaret;2;;111
-1;1;"Flynn, Mr. John Irwin (""Irving"")";1;36;26
+1;1;Flynn, Mr. John Irwin (Irving);1;36;26
 1;0;Foreman, Mr. Benjamin Laventall;1;30;28
 1;1;Fortune, Miss. Alice Elizabeth;2;24;263
 1;1;Fortune, Miss. Ethel Flora;2;28;263
@@ -163,7 +163,7 @@ classe;survie;nom;sexe;age;tarif
 1;1;Hogeboom, Mrs. John C (Anna Andrews);2;51;78
 1;0;Holverson, Mr. Alexander Oskar;1;42;52
 1;1;Holverson, Mrs. Alexander Oskar (Mary Aline Towner);2;35;52
-1;1;"Homer, Mr. Harry (""Mr E Haven"")";1;35;27
+1;1;Homer, Mr. Harry (Mr E Haven);1;35;27
 1;1;Hoyt, Mr. Frederick Maxfield;1;38;90
 1;0;Hoyt, Mr. William Fisher;1;;31
 1;1;Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby);2;35;90
@@ -184,7 +184,7 @@ classe;survie;nom;sexe;age;tarif
 1;1;LeRoy, Miss. Bertha;2;30;106
 1;1;Lesurer, Mr. Gustave J;1;35;512
 1;0;Lewy, Mr. Ervin G;1;;28
-1;0;"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")";1;42;27
+1;0;Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey);1;42;27
 1;1;Lindstrom, Mrs. Carl Johan (Sigrid Posse);2;55;28
 1;1;Lines, Miss. Mary Conover;2;16;39
 1;1;Lines, Mrs. Ernest H (Elizabeth Lindsey James);2;51;39
@@ -198,7 +198,7 @@ classe;survie;nom;sexe;age;tarif
 1;1;Marechal, Mr. Pierre;1;;30
 1;0;Marvin, Mr. Daniel Warner;1;19;53
 1;1;Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson);2;18;53
-1;1;"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")";2;24;50
+1;1;Mayne, Mlle. Berthe Antonine (  Mrs de Villiers  ) ;2;24;50
 1;0;McCaffry, Mr. Thomas Francis;1;46;75
 1;0;McCarthy, Mr. Timothy J;1;54;52
 1;1;McGough, Mr. James Robert;1;36;26
@@ -239,18 +239,18 @@ classe;survie;nom;sexe;age;tarif
 1;0;Robbins, Mr. Victor;1;;228
 1;1;Robert, Mrs. Edward Scott (Elisabeth Walton McMillan);2;43;211
 1;0;Roebling, Mr. Washington Augustus II;1;31;50
-1;1;"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")";1;45;27
+1;1; Romaine, Mr. Charles Hallace (Mr C Rolmane);1;45;27
 1;0;Rood, Mr. Hugh Roscoe;1;;50
 1;1;Rosenbaum, Miss. Edith Louise;2;33;28
-1;0;"Rosenshine, Mr. George (""Mr George Thorne"")";1;46;79
+1;0;Rosenshine, Mr. George (Mr George Thorne);1;46;79
 1;0;Ross, Mr. John Hugo;1;36;40
 1;1;Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards);2;33;87
 1;0;Rothschild, Mr. Martin;1;55;59
-1;1;Rothschild, Mrs. Martin (Elizabeth L. Barrett);2;54;59
+1;1;Rothschild, Mrs. Martin (Elizabeth L Barrett);2;54;59
 1;0;Rowe, Mr. Alfred G;1;33;27
 1;1;Ryerson, Master. John Borie;1;13;262
 1;1;Ryerson, Miss. Emily Borie;2;18;262
-1;1;"Ryerson, Miss. Susan Parker ""Suzette""";2;21;262
+1;1;Ryerson, Miss. Susan Parker Suzette;2;21;262
 1;0;Ryerson, Mr. Arthur Larned;1;61;262
 1;1;Ryerson, Mrs. Arthur Larned (Emily Maria Borie);2;48;262
 1;1;Saalfeld, Mr. Adolphe;1;;31
@@ -328,7 +328,7 @@ classe;survie;nom;sexe;age;tarif
 2;0;Andrew, Mr. Edgardo Samuel;1;18;12
 2;0;Andrew, Mr. Frank Thomas;1;25;11
 2;0;Angle, Mr. William A;1;34;26
-2;1;"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)";2;36;26
+2;1;Angle, Mrs. William A (Florence Mary Agnes Hughes);2;36;26
 2;0;Ashby, Mr. John;1;57;13
 2;0;Bailey, Mr. Percy Andrew;1;18;12
 2;0;Baimbrigge, Mr. Charles Robert;1;23;11
@@ -348,7 +348,7 @@ classe;survie;nom;sexe;age;tarif
 2;0;Botsford, Mr. William Hull;1;26;13
 2;0;Bowenur, Mr. Solomon;1;42;13
 2;0;Bracken, Mr. James H;1;27;13
-2;1;"Brown, Miss. Amelia ""Mildred""";2;24;13
+2;1;Brown, Miss. Amelia Mildred;2;24;13
 2;1;Brown, Miss. Edith Eileen;2;15;39
 2;0;Brown, Mr. Thomas William Solomon;1;60;39
 2;1;Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford);2;40;39
@@ -376,13 +376,13 @@ classe;survie;nom;sexe;age;tarif
 2;0;Coleridge, Mr. Reginald Charles;1;29;11
 2;0;Collander, Mr. Erik Gustaf;1;28;13
 2;1;Collett, Mr. Sidney C Stuart;1;24;11
-2;1;"Collyer, Miss. Marjorie ""Lottie""";2;8;26
+2;1;Collyer, Miss. Marjorie Lottie;2;8;26
 2;0;Collyer, Mr. Harvey;1;31;26
 2;1;Collyer, Mrs. Harvey (Charlotte Annie Tate);2;31;26
 2;1;Cook, Mrs. (Selena Rogers);2;22;11
 2;0;Corbett, Mrs. Walter H (Irene Colvin);2;30;13
 2;0;Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller);2;;21
-2;0;"Cotterill, Mr. Henry ""Harry""";1;21;12
+2;0;Cotterill, Mr. Henry Harry;1;21;12
 2;0;Cunningham, Mr. Alfred Fleming;1;;0
 2;1;Davies, Master. John Morgan Jr;1;8;37
 2;0;Davies, Mr. Charles Henry;1;18;74
@@ -409,7 +409,7 @@ classe;survie;nom;sexe;age;tarif
 2;1;Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson);2;29;26
 2;0;Fillbrook, Mr. Joseph Charles;1;18;11
 2;0;Fox, Mr. Stanley Hubert;1;36;13
-2;0;"Frost, Mr. Anthony Wood ""Archie""";1;;0
+2;0;Frost, Mr. Anthony Wood Archie;1;;0
 2;0;Funk, Miss. Annie Clemmer;2;38;13
 2;0;Fynney, Mr. Joseph J;1;35;26
 2;0;Gale, Mr. Harry;1;38;21
@@ -429,7 +429,7 @@ classe;survie;nom;sexe;age;tarif
 2;1;Hamalainen, Master. Viljo;1;1;15
 2;1;Hamalainen, Mrs. William (Anna);2;24;15
 2;0;Harbeck, Mr. William H;1;44;13
-2;1;"Harper, Miss. Annie Jessie ""Nina""";2;6;33
+2;1;Harper, Miss. Annie Jessie Nina;2;6;33
 2;0;Harper, Rev. John;1;28;33
 2;1;Harris, Mr. George;1;62;11
 2;0;Harris, Mr. Walter;1;30;11
@@ -445,7 +445,7 @@ classe;survie;nom;sexe;age;tarif
 2;0;Hickman, Mr. Lewis;1;32;74
 2;0;Hickman, Mr. Stanley George;1;21;74
 2;0;Hiltunen, Miss. Marta;2;18;13
-2;1;"Hocking, Miss. Ellen ""Nellie""";2;20;23
+2;1;Hocking, Miss. Ellen Nellie;2;20;23
 2;0;Hocking, Mr. Richard George;1;23;12
 2;0;Hocking, Mr. Samuel James Metcalfe;1;36;13
 2;1;Hocking, Mrs. Elizabeth (Eliza Needs);2;54;23
@@ -470,7 +470,7 @@ classe;survie;nom;sexe;age;tarif
 2;0;Karnes, Mrs. J Frank (Claire Bennett);2;22;21
 2;1;Keane, Miss. Nora A;2;;12
 2;0;Keane, Mr. Daniel;1;35;12
-2;1;"Kelly, Mrs. Florence ""Fannie""";2;45;14
+2;1;Kelly, Mrs. Florence Fannie;2;45;14
 2;0;Kirkland, Rev. Charles Leonard;1;57;12
 2;0;Knight, Mr. Robert J;1;;0
 2;0;Kvillner, Mr. Johan Henrik Johannesson;1;31;11
@@ -508,18 +508,18 @@ classe;survie;nom;sexe;age;tarif
 2;0;Mitchell, Mr. Henry Michael;1;70;11
 2;0;Montvila, Rev. Juozas;1;27;13
 2;0;Moraweck, Dr. Ernest;1;54;14
-2;0;"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")";1;39;26
+2;0;Morley, Mr. Henry Samuel (Mr Henry Marshall);1;39;26
 2;0;Mudd, Mr. Thomas Charles;1;16;11
 2;0;Myles, Mr. Thomas Francis;1;62;10
 2;0;Nasser, Mr. Nicholas;1;33;30
 2;1;Nasser, Mrs. Nicholas (Adele Achem);2;14;30
 2;1;Navratil, Master. Edmond Roger;1;2;26
 2;1;Navratil, Master. Michel M;1;3;26
-2;0;"Navratil, Mr. Michel (""Louis M Hoffman"")";1;37;26
+2;0;Navratil, Mr. Michel (Louis M Hoffman);1;37;26
 2;0;Nesson, Mr. Israel;1;26;13
 2;0;Nicholls, Mr. Joseph Charles;1;19;37
 2;0;Norman, Mr. Robert Douglas;1;28;14
-2;1;"Nourney, Mr. Alfred (""Baron von Drachstedt"")";1;20;14
+2;1;Nourney, Mr. Alfred (Baron von Drachstedt);1;20;14
 2;1;Nye, Mrs. (Elizabeth Ramell);2;29;11
 2;0;Otter, Mr. Richard;1;39;13
 2;1;Oxenham, Mr. Percy Thomas;1;22;11
@@ -527,13 +527,13 @@ classe;survie;nom;sexe;age;tarif
 2;0;Pain, Dr. Alfred;1;23;11
 2;1;Pallas y Castello, Mr. Emilio;1;29;14
 2;0;Parker, Mr. Clifford Richard;1;28;11
-2;0;"Parkes, Mr. Francis ""Frank""";1;;0
+2;0;Parkes, Mr. Francis Frank;1;;0
 2;1;Parrish, Mrs. (Lutie Davis);2;50;26
 2;0;Pengelly, Mr. Frederick William;1;19;11
 2;0;Pernot, Mr. Rene;1;;15
 2;0;Peruschitz, Rev. Joseph Maria;1;41;13
 2;1;Phillips, Miss. Alice Frances Louisa;2;21;21
-2;1;"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")";2;19;26
+2;1;Phillips, Miss. Kate Florence (Mrs Kate Louise Phillips Marshall);2;19;26
 2;0;Phillips, Mr. Escott Robert;1;43;21
 2;1;Pinsky, Mrs. (Rosa);2;32;13
 2;0;Ponesell, Mr. Martin;1;34;13
@@ -572,7 +572,7 @@ classe;survie;nom;sexe;age;tarif
 2;1;Toomey, Miss. Ellen;2;50;11
 2;0;Troupiansky, Mr. Moses Aaron;1;23;13
 2;1;Trout, Mrs. William H (Jessie L);2;28;13
-2;1;"Troutt, Miss. Edwina Celia ""Winnie""";2;27;11
+2;1;Troutt, Miss. Edwina Celia Winnie;2;27;11
 2;0;Turpin, Mr. William John Robert;1;29;21
 2;0;Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott);2;27;21
 2;0;Veal, Mr. James;1;40;13
@@ -582,23 +582,23 @@ classe;survie;nom;sexe;age;tarif
 2;1;Ware, Mrs. John James (Florence Louise Long);2;31;21
 2;0;Watson, Mr. Ennis Hastings;1;;0
 2;1;Watt, Miss. Bertha J;2;12;16
-2;1;"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)";2;40;16
+2;1;Watt, Mrs. James (Elizabeth Bessie Inglis Milne);2;40;16
 2;1;Webber, Miss. Susan;2;33;13
 2;0;Weisz, Mr. Leopold;1;27;26
 2;1;Weisz, Mrs. Leopold (Mathilde Francoise Pede);2;29;26
 2;1;Wells, Master. Ralph Lester;1;2;23
 2;1;Wells, Miss. Joan;2;4;23
-2;1;"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)";2;29;23
+2;1;Wells, Mrs. Arthur Henry (Addie Dart Trevaskis);2;29;23
 2;1;West, Miss. Barbara J;2;1;28
 2;1;West, Miss. Constance Mirium;2;5;28
 2;0;West, Mr. Edwy Arthur;1;36;28
 2;1;West, Mrs. Edwy Arthur (Ada Mary Worth);2;33;28
 2;0;Wheadon, Mr. Edward H;1;66;11
-2;0;"Wheeler, Mr. Edwin ""Frederick""";1;;13
+2;0;Wheeler, Mr. Edwin Frederick;1;;13
 2;1;Wilhelms, Mr. Charles;1;31;13
 2;1;Williams, Mr. Charles Eugene;1;;13
 2;1;Wright, Miss. Marion;2;26;14
-2;0;"Yrois, Miss. Henriette (""Mrs Harbeck"")";2;24;13
+2;0;Yrois, Miss. Henriette (Mrs Harbeck);2;24;13
 3;0;Abbing, Mr. Anthony;1;42;8
 3;0;Abbott, Master. Eugene Joseph;1;13;20
 3;0;Abbott, Mr. Rossmore Edward;1;16;20
@@ -629,7 +629,7 @@ classe;survie;nom;sexe;age;tarif
 3;0;Andersson, Miss. Ingeborg Constanzia;2;9;31
 3;0;Andersson, Miss. Sigrid Elisabeth;2;11;31
 3;0;Andersson, Mr. Anders Johan;1;39;31
-3;1;"Andersson, Mr. August Edvard (""Wennerstrom"")";1;27;8
+3;1;Andersson, Mr. August Edvard (Wennerstrom);1;27;8
 3;0;Andersson, Mr. Johan Samuel;1;26;8
 3;0;Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren);2;39;31
 3;0;Andreasson, Mr. Paul Edvin;1;20;8
@@ -646,7 +646,7 @@ classe;survie;nom;sexe;age;tarif
 3;0;Asplund, Mr. Carl Oscar Vilhelm Gustafsson;1;40;31
 3;1;Asplund, Mr. Johan Charles;1;23;8
 3;1;Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson);2;38;31
-3;1;"Assaf Khalil, Mrs. Mariana (""Miriam"")";2;45;7
+3;1;Assaf Khalil, Mrs. Mariana (Miriam);2;45;7
 3;0;Assaf, Mr. Gerios;1;21;7
 3;0;Assam, Mr. Ali;1;23;7
 3;0;Attalah, Miss. Malake;2;17;14
@@ -684,7 +684,7 @@ classe;survie;nom;sexe;age;tarif
 3;0;Bourke, Miss. Mary;2;;8
 3;0;Bourke, Mr. John;1;40;16
 3;0;Bourke, Mrs. John (Catherine);2;32;16
-3;0;"Bowen, Mr. David John ""Dai""";1;21;16
+3;0;Bowen, Mr. David John Dai;1;21;16
 3;1;Bradley, Miss. Bridget Delia;2;22;8
 3;0;Braf, Miss. Elin Ester Maria;2;20;8
 3;0;Braund, Mr. Lewis Richard;1;29;7
@@ -708,7 +708,7 @@ classe;survie;nom;sexe;age;tarif
 3;0;Caram, Mrs. Joseph (Maria Elias);2;;14
 3;0;Carlsson, Mr. August Sigfrid;1;28;8
 3;0;Carlsson, Mr. Carl Robert;1;24;8
-3;1;"Carr, Miss. Helen ""Ellen""";2;16;8
+3;1;Carr, Miss. Helen Ellen;2;16;8
 3;0;Carr, Miss. Jeannie;2;37;8
 3;0;Carver, Mr. Alfred John;1;28;7
 3;0;Celotti, Mr. Francesco;1;24;8
@@ -718,7 +718,7 @@ classe;survie;nom;sexe;age;tarif
 3;0;Chronopoulos, Mr. Apostolos;1;26;14
 3;0;Chronopoulos, Mr. Demetrios;1;18;14
 3;0;Coelho, Mr. Domingos Fernandeo;1;20;7
-3;1;"Cohen, Mr. Gurshon ""Gus""";1;18;8
+3;1;Cohen, Mr. Gurshon Gus;1;18;8
 3;0;Colbert, Mr. Patrick;1;24;7
 3;0;Coleff, Mr. Peju;1;36;7
 3;0;Coleff, Mr. Satio;1;24;7
@@ -732,9 +732,9 @@ classe;survie;nom;sexe;age;tarif
 3;0;Cor, Mr. Ivan;1;27;8
 3;0;Cor, Mr. Liudevit;1;19;8
 3;0;Corn, Mr. Harry;1;30;8
-3;1;"Coutts, Master. Eden Leslie ""Neville""";1;9;16
-3;1;"Coutts, Master. William Loch ""William""";1;3;16
-3;1;"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)";2;36;16
+3;1;Coutts, Master. Eden Leslie Neville;1;9;16
+3;1;Coutts, Master. William Loch William;1;3;16
+3;1;Coutts, Mrs. William (Winnie Minnie Treanor);2;36;16
 3;0;Coxon, Mr. Daniel;1;59;7
 3;0;Crease, Mr. Ernest James;1;19;8
 3;1;Cribb, Miss. Laura Alice;2;17;16
@@ -744,7 +744,7 @@ classe;survie;nom;sexe;age;tarif
 3;1;Dahl, Mr. Karl Edwart;1;45;8
 3;0;Dahlberg, Miss. Gerda Ulrika;2;22;11
 3;0;Dakic, Mr. Branko;1;19;10
-3;1;"Daly, Miss. Margaret Marcella ""Maggie""";2;30;7
+3;1;Daly, Miss. Margaret Marcella Maggie;2;30;7
 3;1;Daly, Mr. Eugene Patrick;1;29;8
 3;0;Danbom, Master. Gilbert Sigvard Emanuel;1;0;14
 3;0;Danbom, Mr. Ernst Gilbert;1;34;14
@@ -762,7 +762,7 @@ classe;survie;nom;sexe;age;tarif
 3;1;de Mulder, Mr. Theodore;1;30;10
 3;0;de Pelsmaeker, Mr. Alfons;1;16;10
 3;1;Dean, Master. Bertram Vere;1;1;21
-3;1;"Dean, Miss. Elizabeth Gladys ""Millvina""";2;0;21
+3;1;Dean, Miss. Elizabeth Gladys Millvina;2;0;21
 3;0;Dean, Mr. Bertram Frank;1;26;21
 3;1;Dean, Mrs. Bertram (Eva Georgetta Light);2;33;21
 3;0;Delalic, Mr. Redjo;1;25;8
@@ -805,8 +805,8 @@ classe;survie;nom;sexe;age;tarif
 3;0;Foley, Mr. Joseph;1;26;8
 3;0;Foley, Mr. William;1;;8
 3;1;Foo, Mr. Choong;1;;56
-3;0;"Ford, Miss. Doolina Margaret ""Daisy""";2;21;34
-3;0;"Ford, Miss. Robina Maggie ""Ruby""";2;9;34
+3;0;Ford, Miss. Doolina Margaret Daisy;2;21;34
+3;0;Ford, Miss. Robina Maggie Ruby;2;9;34
 3;0;Ford, Mr. Arthur;1;;8
 3;0;Ford, Mr. Edward Watson;1;18;34
 3;0;Ford, Mr. William Neal;1;16;34
@@ -817,9 +817,9 @@ classe;survie;nom;sexe;age;tarif
 3;0;Garfirth, Mr. John;1;;15
 3;0;Gheorgheff, Mr. Stanio;1;;8
 3;0;Gilinski, Mr. Eliezer;1;22;8
-3;1;"Gilnagh, Miss. Katherine ""Katie""";2;16;8
+3;1;Gilnagh, Miss. Katherine Katie;2;16;8
 3;1;Glynn, Miss. Mary Agatha;2;;8
-3;1;"Goldsmith, Master. Frank John William ""Frankie""";1;9;21
+3;1;Goldsmith, Master. Frank John William Frankie;1;9;21
 3;0;Goldsmith, Mr. Frank John;1;33;21
 3;0;Goldsmith, Mr. Nathan;1;41;8
 3;1;Goldsmith, Mrs. Frank John (Emily Alice Brown);2;31;21
@@ -855,10 +855,10 @@ classe;survie;nom;sexe;age;tarif
 3;0;Harmer, Mr. Abraham (David Lishin);1;25;7
 3;0;Hart, Mr. Henry;1;;7
 3;0;Hassan, Mr. Houssein G N;1;11;19
-3;1;"Healy, Miss. Hanora ""Nora""";2;;8
+3;1;Healy, Miss. Hanora Nora;2;;8
 3;1;Hedman, Mr. Oskar Arvid;1;27;7
 3;1;Hee, Mr. Ling;1;;56
-3;0;"Hegarty, Miss. Hanora ""Nora""";2;18;7
+3;0;Hegarty, Miss. Hanora Nora;2;18;7
 3;1;Heikkinen, Miss. Laina;2;26;8
 3;0;Heininen, Miss. Wendla Maria;2;23;8
 3;1;Hellstrom, Miss. Hilda Maria;2;22;9
@@ -899,10 +899,10 @@ classe;survie;nom;sexe;age;tarif
 3;0;Johnson, Mr. Malkolm Joackim;1;33;8
 3;0;Johnson, Mr. William Cahoone Jr;1;19;0
 3;1;Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg);2;27;11
-3;0;"Johnston, Master. William Arthur ""Willie""";1;;23
-3;0;"Johnston, Miss. Catherine Helen ""Carrie""";2;;23
+3;0;Johnston, Master. William Arthur Willie;1;;23
+3;0;Johnston, Miss. Catherine Helen Carrie;2;;23
 3;0;Johnston, Mr. Andrew G;1;;23
-3;0;"Johnston, Mrs. Andrew G (Elizabeth ""Lily"" Watson)";2;;23
+3;0;Johnston, Mrs. Andrew G (Elizabeth Lily Watson);2;;23
 3;0;Jonkoff, Mr. Lalio;1;23;8
 3;1;Jonsson, Mr. Carl;1;32;8
 3;0;Jonsson, Mr. Nils Hilding;1;27;8
@@ -918,16 +918,16 @@ classe;survie;nom;sexe;age;tarif
 3;1;Karun, Miss. Manca;2;4;13
 3;1;Karun, Mr. Franz;1;39;13
 3;0;Kassem, Mr. Fared;1;;7
-3;0;"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")";1;19;7
-3;0;"Keane, Mr. Andrew ""Andy""";1;;8
+3;0;Katavelas, Mr. Vassilios (Catavelas Vassilios);1;19;7
+3;0;Keane, Mr. Andrew Andy;1;;8
 3;0;Keefe, Mr. Arthur;1;;7
-3;1;"Kelly, Miss. Anna Katherine ""Annie Kate""";2;;8
+3;1;Kelly, Miss. Anna Katherine Annie Kate;2;;8
 3;1;Kelly, Miss. Mary;2;;8
 3;0;Kelly, Mr. James;1;35;8
 3;0;Kelly, Mr. James;1;44;8
 3;1;Kennedy, Mr. John;1;;8
 3;0;Khalil, Mr. Betros;1;;14
-3;0;"Khalil, Mrs. Betros (Zahie ""Maria"" Elias)";2;;14
+3;0;Khalil, Mrs. Betros (Zahie Maria Elias);2;;14
 3;0;Kiernan, Mr. John;1;;8
 3;0;Kiernan, Mr. Philip;1;;8
 3;0;Kilgannon, Mr. Thomas J;1;;8
@@ -952,7 +952,7 @@ classe;survie;nom;sexe;age;tarif
 3;0;Larsson, Mr. August Viktor;1;29;9
 3;0;Larsson, Mr. Bengt Edvin;1;29;8
 3;0;Larsson-Rondberg, Mr. Edvard A;1;22;8
-3;1;"Leeni, Mr. Fahim (""Philip Zenni"")";1;22;7
+3;1;Leeni, Mr. Fahim (Philip Zenni);1;22;7
 3;0;Lefebre, Master. Henry Forbes;1;;25
 3;0;Lefebre, Miss. Ida;2;;25
 3;0;Lefebre, Miss. Jeannie;2;;25
@@ -976,14 +976,14 @@ classe;survie;nom;sexe;age;tarif
 3;0;Lobb, Mr. William Arthur;1;30;16
 3;0;Lobb, Mrs. William Arthur (Cordelia K Stanlick);2;26;16
 3;0;Lockyer, Mr. Edward;1;;8
-3;0;"Lovell, Mr. John Hall (""Henry"")";1;21;7
+3;0;Lovell, Mr. John Hall (Henry);1;21;7
 3;1;Lulic, Mr. Nikola;1;27;9
 3;0;Lundahl, Mr. Johan Svensson;1;51;7
 3;1;Lundin, Miss. Olga Elida;2;23;8
 3;1;Lundstrom, Mr. Thure Edvin;1;32;8
 3;0;Lyntakoff, Mr. Stanko;1;;8
 3;0;MacKay, Mr. George William;1;;8
-3;1;"Madigan, Miss. Margaret ""Maggie""";2;;8
+3;1;Madigan, Miss. Margaret Maggie;2;;8
 3;1;Madsen, Mr. Fridtjof Arne;1;24;7
 3;0;Maenpaa, Mr. Matti Alexanteri;1;22;7
 3;0;Mahon, Miss. Bridget Delia;2;;8
@@ -998,7 +998,7 @@ classe;survie;nom;sexe;age;tarif
 3;0;Markun, Mr. Johann;1;33;8
 3;1;Masselmani, Mrs. Fatima;2;;7
 3;0;Matinoff, Mr. Nicola;1;;8
-3;1;"McCarthy, Miss. Catherine ""Katie""";2;;8
+3;1;McCarthy, Miss. Catherine Katie;2;;8
 3;1;McCormack, Mr. Thomas Joseph;1;;8
 3;1;McCoy, Miss. Agnes;2;;23
 3;1;McCoy, Miss. Alicia;2;;23
@@ -1006,7 +1006,7 @@ classe;survie;nom;sexe;age;tarif
 3;1;McDermott, Miss. Brigdet Delia;2;;8
 3;0;McEvoy, Mr. Michael;1;;16
 3;1;McGovern, Miss. Mary;2;;8
-3;1;"McGowan, Miss. Anna ""Annie""";2;15;8
+3;1;McGowan, Miss. Anna Annie;2;15;8
 3;0;McGowan, Miss. Katherine;2;35;8
 3;0;McMahon, Mr. Martin;1;;8
 3;0;McNamee, Mr. Neal;1;24;16
@@ -1022,7 +1022,7 @@ classe;survie;nom;sexe;age;tarif
 3;0;Minkoff, Mr. Lazar;1;21;8
 3;0;Mionoff, Mr. Stoytcho;1;28;8
 3;0;Mitkoff, Mr. Mito;1;;8
-3;1;"Mockler, Miss. Helen Mary ""Ellie""";2;;8
+3;1;Mockler, Miss. Helen Mary Ellie;2;;8
 3;0;Moen, Mr. Sigurd Hansen;1;25;8
 3;1;Moor, Master. Meier;1;6;12
 3;1;Moor, Mrs. (Beila);2;27;12
@@ -1034,22 +1034,22 @@ classe;survie;nom;sexe;age;tarif
 3;0;Morrow, Mr. Thomas Rowan;1;;8
 3;1;Moss, Mr. Albert Johan;1;;8
 3;1;Moubarek, Master. Gerios;1;;15
-3;1;"Moubarek, Master. Halim Gonios (""William George"")";1;;15
-3;1;"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)";2;;15
+3;1;Moubarek, Master. Halim Gonios (William George);1;;15
+3;1;Moubarek, Mrs. George (Omine Amenia Alexander);2;;15
 3;1;Moussa, Mrs. (Mantoura Boulos);2;;7
 3;0;Moutal, Mr. Rahamin Haim;1;;8
-3;1;"Mullens, Miss. Katherine ""Katie""";2;;8
+3;1;Mullens, Miss. Katherine Katie;2;;8
 3;1;Mulvihill, Miss. Bertha E;2;24;8
 3;0;Murdlin, Mr. Joseph;1;;8
-3;1;"Murphy, Miss. Katherine ""Kate""";2;;16
+3;1;Murphy, Miss. Katherine Kate;2;;16
 3;1;Murphy, Miss. Margaret Jane;2;;16
 3;1;Murphy, Miss. Nora;2;;16
 3;0;Myhrman, Mr. Pehr Fabian Oliver Malkolm;1;18;8
 3;0;Naidenoff, Mr. Penko;1;22;8
-3;1;"Najib, Miss. Adele Kiamie ""Jane""";2;15;7
-3;1;"Nakid, Miss. Maria (""Mary"")";2;1;16
+3;1;Najib, Miss. Adele Kiamie Jane;2;15;7
+3;1;Nakid, Miss. Maria (Mary);2;1;16
 3;1;Nakid, Mr. Sahid;1;20;16
-3;1;"Nakid, Mrs. Said (Waika ""Mary"" Mowad)";2;19;16
+3;1;Nakid, Mrs. Said (Waika Mary Mowad);2;19;16
 3;0;Nancarrow, Mr. William Henry;1;33;8
 3;0;Nankoff, Mr. Minko;1;;8
 3;0;Nasr, Mr. Mustafa;1;;7
@@ -1070,17 +1070,17 @@ classe;survie;nom;sexe;age;tarif
 3;0;Nysveen, Mr. Johan Hansen;1;61;6
 3;0;O'Brien, Mr. Thomas;1;;16
 3;0;O'Brien, Mr. Timothy;1;;8
-3;1;"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)";2;;16
+3;1;O'Brien, Mrs. Thomas (Johanna Hannah Godfrey);2;;16
 3;0;O'Connell, Mr. Patrick D;1;;8
 3;0;O'Connor, Mr. Maurice;1;;8
 3;0;O'Connor, Mr. Patrick;1;;8
 3;0;Odahl, Mr. Nils Martin;1;23;9
 3;0;O'Donoghue, Ms. Bridget;2;;8
 3;1;O'Driscoll, Miss. Bridget;2;;8
-3;1;"O'Dwyer, Miss. Ellen ""Nellie""";2;;8
+3;1;O'Dwyer, Miss. Ellen Nellie;2;;8
 3;1;Ohman, Miss. Velin;2;22;8
 3;1;O'Keefe, Mr. Patrick;1;;8
-3;1;"O'Leary, Miss. Hanora ""Norah""";2;;8
+3;1;O'Leary, Miss. Hanora Norah;2;;8
 3;1;Olsen, Master. Artur Karl;1;9;3
 3;0;Olsen, Mr. Henry Margido;1;28;23
 3;0;Olsen, Mr. Karl Siegwart Andreas;1;42;8
@@ -1127,7 +1127,7 @@ classe;survie;nom;sexe;age;tarif
 3;0;Petersen, Mr. Marius;1;24;8
 3;0;Petranec, Miss. Matilda;2;28;8
 3;0;Petroff, Mr. Nedelio;1;19;8
-3;0;"Petroff, Mr. Pastcho (""Pentcho"")";1;;8
+3;0;Petroff, Mr. Pastcho (Pentcho);1;;8
 3;0;Petterson, Mr. Johan Emil;1;25;8
 3;0;Pettersson, Miss. Ellen Natalia;2;18;8
 3;1;Pickard, Mr. Berk (Berk Trembisky);1;32;8
@@ -1146,9 +1146,9 @@ classe;survie;nom;sexe;age;tarif
 3;0;Rice, Master. Eugene;1;2;29
 3;0;Rice, Master. George Hugh;1;8;29
 3;0;Rice, Mrs. William (Margaret Norton);2;39;29
-3;0;"Riihivouri, Miss. Susanna Juhantytar ""Sanni""";2;22;40
+3;0;Riihivouri, Miss. Susanna Juhantytar Sanni;2;22;40
 3;0;Rintamaki, Mr. Matti;1;35;7
-3;1;"Riordan, Miss. Johanna ""Hannah""";2;;8
+3;1;Riordan, Miss. Johanna Hannah;2;;8
 3;0;Risien, Mr. Samuel Beard;1;;15
 3;0;Risien, Mrs. Samuel (Emma);2;;15
 3;0;Robins, Mr. Alexander A;1;50;15
@@ -1173,7 +1173,7 @@ classe;survie;nom;sexe;age;tarif
 3;0;Sage, Master. William Henry;1;15;70
 3;0;Sage, Miss. Ada;2;;70
 3;0;Sage, Miss. Constance Gladys;2;;70
-3;0;"Sage, Miss. Dorothy Edith ""Dolly""";2;;70
+3;0;Sage, Miss. Dorothy Edith Dolly;2;;70
 3;0;Sage, Miss. Stella Anna;2;;70
 3;0;Sage, Mr. Douglas Bullen;1;;70
 3;0;Sage, Mr. Frederick;1;;70
@@ -1243,7 +1243,7 @@ classe;survie;nom;sexe;age;tarif
 3;0;Thomas, Mr. Charles P;1;;6
 3;0;Thomas, Mr. John;1;;6
 3;0;Thomas, Mr. Tannous;1;;7
-3;1;"Thomas, Mrs. Alexander (Thamine ""Thelma"")";2;16;9
+3;1;Thomas, Mrs. Alexander (Thamine Thelma);2;16;9
 3;0;Thomson, Mr. Alexander Morrison;1;;8
 3;0;Thorneycroft, Mr. Percival;1;;16
 3;1;Thorneycroft, Mrs. Percival (Florence Kate White);2;;16
@@ -1290,9 +1290,9 @@ classe;survie;nom;sexe;age;tarif
 3;0;Wiklund, Mr. Jakob Alfred;1;18;6
 3;0;Wiklund, Mr. Karl Johan;1;21;6
 3;1;Wilkes, Mrs. James (Ellen Needs);2;47;7
-3;0;"Willer, Mr. Aaron (""Abi Weller"")";1;;9
+3;0;Willer, Mr. Aaron (Abi Weller);1;;9
 3;0;Willey, Mr. Edward;1;;8
-3;0;"Williams, Mr. Howard Hugh ""Harry""";1;;8
+3;0;Williams, Mr. Howard Hugh Harry;1;;8
 3;0;Williams, Mr. Leslie;1;29;16
 3;0;Windelov, Mr. Einar;1;21;7
 3;0;Wirz, Mr. Albert;1;27;9
