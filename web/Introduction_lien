@@ -1,10 +1,22 @@
-faire un premier fichier que !'on appellera fichier1.htm
+Faire un premier fichier que !'on appellera fichier1.htm
+
 <html>
 <head>
 </head>
 <body>
 bonjour 
-<a href="fichier2.htm'>texte du lien</a>
+<a href="https://www.google.com/">texte du lien</a>
 </body>
 <html>
-enregistrer ce fichier puis l'ouvrir dans le navigateur et clicker sur le lien...
+Enregistrer ce fichier puis l'ouvrir dans le navigateur et clicker sur le lien...
+
+Faire un deuxième fichier que !'on appellera fichier2.htm
+
+<html>
+<head>
+</head>
+<body>
+bonjour 
+<a href="fichier1.htm">texte du lien</a>
+</body>
+<html>
