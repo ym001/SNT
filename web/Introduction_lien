@@ -9,7 +9,7 @@ Faire un premier fichier que !'on appellera fichier1.htm
 bonjour 
 <a href="https://www.google.com/">texte du lien</a>
 </body>
-<html>
+</html>
 
 Enregistrer ce fichier puis l'ouvrir dans le navigateur et clicker sur le lien...
 
