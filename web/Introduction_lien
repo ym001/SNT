@@ -8,7 +8,10 @@ bonjour
 <a href="https://www.google.com/">texte du lien</a>
 </body>
 <html>
+
 Enregistrer ce fichier puis l'ouvrir dans le navigateur et clicker sur le lien...
+
+---------------
 
 Faire un deuxième fichier que !'on appellera fichier2.htm
 
@@ -20,3 +23,6 @@ bonjour
 <a href="fichier1.htm">texte du lien</a>
 </body>
 <html>
+
+Enregistrer ce fichier puis l'ouvrir dans le navigateur et clicker sur le lien...
+
