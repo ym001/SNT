@@ -1,0 +1,10 @@
+faire un premier fichier que !'on appelera fichier1.htm
+<html>
+<head>
+</head>
+<body>
+bonjour 
+<a href="fichier2.htm'>texte du lien</a>
+</body>
+<html>
+enregistrer ce fichier pis l'ouvrir dans le navigateur et clicer sur le lien
