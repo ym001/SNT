@@ -1,0 +1,12 @@
+---------------
+
+Faire un fichier que l'on appellera fichier.htm
+
+<html>
+<head>
+</head>
+<body>
+bonjour 
+<a href="https://www.google.com/"><img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png"></a>
+</body>
+</html>
