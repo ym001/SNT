@@ -1,6 +1,6 @@
 ---------------
 
-Faire un fichier que !'on appellera fichier.htm
+Faire un fichier que !'on appellera fichier.htm puis le montrer au professeur.
 
 <html>
 <head>
@@ -9,3 +9,5 @@ Faire un fichier que !'on appellera fichier.htm
 bonjour 
 </body>
 </html>
+
+Dans un deuxième temps reprendre le même fichier y a jouter du texte puis utiliser des balise pour mettre ce texte en gras, en italique voir centré.
