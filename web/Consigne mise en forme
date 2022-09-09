@@ -1,0 +1,10 @@
+Mettre du texte en couleur :
+
+<font color="red">
+Ceci <b>est</b> un test
+</font>
+
+Sauter une ligne :
+<br>
+
+Consugne écrire une page html avec un paragraphe écrit en bleu et un titre écrit en rouge.
