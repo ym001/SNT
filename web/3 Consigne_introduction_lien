@@ -14,6 +14,12 @@ bonjour
 Enregistrer ce fichier puis l'ouvrir dans le navigateur et clicker sur le lien...
 
 ---------------
+Travailler avec des images
+
+<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png">
+tester cette balise dans le fichier précédent
+
+---------------
 
 Faire un deuxième fichier que !'on appellera fichier2.htm
 
