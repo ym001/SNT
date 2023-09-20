@@ -11,16 +11,16 @@
 <!--les lignes suivantes correspondent au code python-->
 <script type="text/python">
 
-from browser import document, alert
-from browser.widgets.dialog import InfoDialog
+from browser import document
 
-def afficher(ev):
-    InfoDialog("Salutation", f"Salut {document['zone'].value} !")
+def afficher(event):
+    document["texte"].textContent = "Salut "+document['champ_de_texte'].value
 
-document["test"].bind("click", afficher)
+document["bouton"].bind("click", afficher)
 </script>
-<p>Indique ton prénom : <input id="zone" >
-<button id="test">click !</button>
+<p>Indique ton prénom : <input id="champ_de_texte" >
+<button id="bouton">click !</button>
+<div id="texte"></div>
 </body>
 
 </html>
