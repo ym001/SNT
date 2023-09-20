@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="text/html; UTF-8">
+<script type="text/javascript" src="brython.js"></script>
+<script type="text/javascript" src="brython_stdlib.js"></script>
+</head>
+
+<body onload="brython(1)">
+	
+<!--les lignes suivantes correspondent au code python-->
+<script type="text/python">
+
+from browser import document, alert
+from browser.widgets.dialog import InfoDialog
+
+def afficher(ev):
+    InfoDialog("Salutation", f"Salut {document['zone'].value} !")
+
+document["test"].bind("click", afficher)
+</script>
+<p>Indique ton prénom : <input id="zone" >
+<button id="test">click !</button>
+</body>
+
+</html>
