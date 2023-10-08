@@ -6,10 +6,14 @@ Vous aurez besoin d'un éditeur de texte, et naturellement d'un navigateur avec 
 Le contenu de ce tutoriel suppose que vous avez une connaissance basique de HTML (structure générale d'une page, principales balises), des feuilles de style (CSS), et du langage Python.
 Dans l'éditeur de texte, créez une page html avec le code que vous trouverez dans le fichier web1.html
 
-Ouvrez vottre navigateur puis tester la page.
-Que fait ce fichier ?
+* Ouvrez votre navigateur puis tester la page 1_python_web.html.
 
-Recommencer avec le fichier web2.html.
+Que fait ce fichier ?
+identifier les ligne de code html.
+identifier les lignes de code python.
+
+* Recommencer avec le fichier 2_python_web.html.
+
 Que fait ce fichier ? 
 Comment pouvez vous modifier le code pour afficher l'age de la personne interrogée ?
 
