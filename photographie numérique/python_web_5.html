@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="text/html; UTF-8">
+
+<script src="https://cdn.jsdelivr.net/npm/brython@3/brython.js">
+</script>
+<script src="https://cdn.jsdelivr.net/npm/brython@3/brython_stdlib.js">
+</script>
+
+</head>
+
+<body onload="brython(1)">
+	
+<div = id="canvasDiv">
+		<canvas id="dessin" width="600" height="400"></canvas>
+</div>
+
+<input id="bouton" type="button" value="Changement de couleur" />
+
+<script type="text/python3">
+from browser import document, html
+
+# Create a canvas element and set its size
+canvas = html.CANVAS()
+document <= canvas
+import math
+
+ctx = document["dessin"].getContext("2d")
+ctx.beginPath()
+ctx.fillStyle = "blue"
+ctx.fillRect(100,100,200,200)
+ctx.stroke()
+
+x = True
+
+def draw(event):
+
+    global x
+    ctx.beginPath()
+    ctx.fillStyle = "blue"
+
+    if x:
+     ctx.fillStyle = "red"
+     x=False
+    else:
+     ctx.fillStyle = "green"
+     x=True
+     
+    ctx.fillRect(100,100,200,200)
+    ctx.stroke()
+    
+document["bouton"].bind("click", draw)
+	
+</script>
+
+</body>
+
+</html>
