@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!-- turtleDemo.html - a simplified version of: https://www.brython.info/gallery/turtle.html -->
+<html>
+<head>
+    <meta charset='utf-8'>
+   
+   <script src="https://cdn.jsdelivr.net/npm/brython@3/brython.min.js">
+</script>
+<script src="https://cdn.jsdelivr.net/npm/brython@3/brython_stdlib.js">
+</script>
+   
+</head>
+
+<body onload='brython()'>
+
+<h4>Brython Turtle Demo</h4>
+<div id='turtle-div'></div>
+<div>The turtle graphics should appear above here</div>
+
+<script type='text/python'>
+try:
+    from browser import document, alert
+    import turtle
+
+    turtle.set_defaults(
+        turtle_canvas_wrapper = document['turtle-div']
+    )
+    t = turtle.Turtle()
+
+    t.width(5)
+
+    for c in ['red', '#00ff00', '#fa0', 'rgb(0,0,200)']:
+        t.color(c)
+        t.forward(100)
+        t.left(90)
+
+    # dot() and write() do not require the pen to be down
+    t.penup()
+    t.goto(-30, -100)
+    t.dot(40, 'rgba(255, 0, 0, 0.5')
+    t.goto(30, -100)
+    t.dot(40, 'rgba(0, 255, 0, 0.5')
+    t.goto(0, -70)
+    t.dot(40, 'rgba(0, 0, 255, 0.5')
+
+    t.goto(0, 125)
+    t.color('purple')
+    t.write("I love Brython!", font=("Arial", 20, "normal"))
+
+    turtle.done()
+
+except Exception as err:
+    alert('Exception: ' + str(err))
+
+</script>
+
+</body>
+</html>
